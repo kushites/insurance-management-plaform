@@ -6,12 +6,12 @@ For example, an insurance company may have its own customer-facing website or mo
 
 setting you have to do before running this project
 
-go to this http://localhost:8080/h2-console
+go to this url http://localhost:8080/h2-console<br>
 
-Driver Class : org.h2.Driver
-JDBC URL     : jdbc:h2:mem:testdb
-User name    : sa
-Password     : password
+Driver Class : org.h2.Driver<br>
+JDBC URL     : jdbc:h2:mem:testdb<br>
+User name    : sa<br>
+Password     : password<br>
 
 fill these detail in h2 console window then click connect.
 Now you can test these apis on postman.
